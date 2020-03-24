@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <stations>
-    <station id = "avtovo">
+    <station id = "0" >
       <name> Автово </name>
       <date> 15 ноября 1955 года </date>
       <depth> 12 метров </depth>
@@ -89,7 +89,7 @@
 
     <station>
       <name> Гражданский проспект </name>
-      <date> 29 декабря 1978 года </date>
+          <date> 29 декабря 1978 года </date>
       <depth>	≈ 64 м </depth>
       <architects> А. С. Гецкин, Е. И. Валь, В. Н. Выдрин </architects>
     </station>
@@ -103,7 +103,7 @@
 
     <station>
       <name> Достоевская </name>
-      <date> 30 декабря 1991 года </date>
+          <date> 30 декабря 1991 года </date>
       <depth>	≈ 62 м </depth>
       <architects> А. В. Жук, А. Д. Токмань </architects>
     </station>
@@ -112,7 +112,7 @@
       <name> Елизаровская </name>
       <date> 21 декабря 1970 года </date>
       <depth>	≈ 62 м </depth>
-      <architects> А. К. Комалдинов, И. И. Комалдинова </architects>
+          <architects> А. К. Комалдинов, И. И. Комалдинова </architects>
     </station>
 
     <station>
@@ -313,9 +313,9 @@
 
     <station>
       <name> Площадь Мужества </name>
-      <date> 31 декабря 1975 года </date>
-      <depth> ≈ 67 м </depth>
-      <architects> Л. Л. Шретер, Е. М. Рапопорт, А. Я. Свирский, Л. И. Шимаковский, П. И. Юшканцев </architects>
+          <date> 31 декабря 1975 года </date>
+          <depth> ≈ 67 м </depth>
+          <architects> Л. Л. Шретер, Е. М. Рапопорт, А. Я. Свирский, Л. И. Шимаковский, П. И. Юшканцев </architects>
     </station>
 
     <station>
